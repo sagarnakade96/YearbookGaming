@@ -293,9 +293,7 @@ if LOGGING_ENABLED:
     }
 
 # Email sendgrid
-SENDGRID_API_KEY = (
-    "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"
-)
+SENDGRID_API_KEY = "add-your-api-key"
 # Sendgrid Host settings
 EMAIL_HOST = "smtp.sendgrid.net"
 EMAIL_HOST_USER = "apikey"  # this is exactly the value 'apikey'
