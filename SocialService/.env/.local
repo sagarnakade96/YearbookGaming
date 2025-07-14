@@ -6,8 +6,8 @@ IPYTHONDIR=/app/.ipython
 YearbookGaming_ENV=local
 
 # AWS Credentials
-AWS_ACCESS_KEY_ID=AKIAZONRLEYQO4VUONNF
-AWS_SECRET_ACCESS_KEY=zRBPvLsIIZ77/f+jcNCpEQC7fnZU3PJRcbp7UbOb
+AWS_ACCESS_KEY_ID=<Please Put Your Own Key>
+AWS_SECRET_ACCESS_KEY=<Please Put Your Own Key>
 
 # Celery and Celery Broker (Redis) Settings
 CELERY_BROKER=REDIS
